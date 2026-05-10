@@ -2,6 +2,8 @@
 
 A lightweight, privacy-focused applet for the Cinnamon desktop (Linux Mint) that allows you to monitor the Bitcoin price in real-time directly from your panel.
 
+![Bitcoin Tracker Preview](screenshots/preview.png)
+
 ## Features
 - Real-time price tracking via **CoinGecko API**.
 - 24-hour price change percentage display.
