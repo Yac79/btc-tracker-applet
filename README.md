@@ -35,3 +35,20 @@ Every satoshi is greatly appreciated! Thank you for supporting open-source softw
 
 ## License
 This project is licensed under the **GNU GPLv3**, ensuring it remains free and open-source software forever.
+
+## Installation
+
+To install the applet, copy and paste the following command into your terminal:
+
+```bash
+cd ~/.local/share/cinnamon/applets/ && rm -rf btc-tracker@ya3c && git clone https://github.com/Yac79/btc-tracker-applet.git btc-tracker@ya3c
+```
+
+## How to Activate
+
+After running the installation command, you must restart the Cinnamon desktop environment to make the applet appear in the settings:
+
+1. Press Alt + F2.
+2. Type r and press Enter.
+3. Open **Applets** from your system settings and add **Bitcoin Tracker** to your panel.
+4. Enjoy!
