@@ -1,0 +1,7 @@
+{
+    "uuid": "btc-tracker@ya3c",
+    "name": "Bitcoin Tracker Ya3c",
+    "description": "Real-time BTC/Fiat tracking",
+    "max-instances": 1
+}
+

@@ -1,0 +1,23 @@
+{
+    "currency": {
+        "type": "combobox",
+        "default": "USD",
+        "description": "fiat currency",
+        "options": {
+            "Dollars (USD)": "USD",
+            "Euro (EUR)": "EUR",
+            "Pound (GBP)": "GBP",
+            "Yen (JPY)": "JPY"
+        }
+    },
+    "refreshInterval": {
+        "type": "spinbutton",
+        "default": 5,
+        "min": 1,
+        "max": 60,
+        "step": 1,
+        "units": "minutes",
+        "description": "update every"
+    }
+}
+
