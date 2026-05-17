@@ -52,3 +52,11 @@ After running the installation command, you must restart the Cinnamon desktop en
 2. Type r and press Enter.
 3. Open **Applets** from your system settings and add **Bitcoin Tracker** to your panel.
 4. Enjoy!
+
+## Configuration settings
+
+Here is how the configuration panel looks, where you can customize the applet's behavior:
+![Settings Overview]
+(screenshots/image01.png)
+![Currency and Refresh Settings]
+(screenshots/image02.png)
